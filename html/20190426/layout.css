@@ -1,0 +1,92 @@
+
+
+.div-mot {
+    background-color: red;
+    height: 80px;
+    text-align: center;
+    font-size: 40px;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
+
+.div-mot-mot {
+    background-color: lightcoral;
+    height: 100%;
+    width: 60%;
+}
+.div-mot-hai {
+    background-color: lightsalmon;
+    height: 100%;
+    width: 30%;
+}
+
+
+.div-hai {
+    background-color: lightskyblue;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
+
+.div-hai-mot {
+    background-color: lightyellow;
+    height: 100%;
+    width: 50%;
+    
+
+}
+
+.div-hai-mot-mot {
+    background-color: lightcyan;
+    height: 30%;
+    width: 90%;
+    margin: 20px;
+}
+
+.div-hai-mot-hai {
+    background-color: lightgrey;
+    height: 40%;
+    width: 90%;
+    margin: 40px 20px 0 20px;
+}
+
+.div-hai-hai {
+    background-color: darkcyan;
+    height: 100%;
+    width: 20%;
+    /* display: flex; */
+}
+.div-hai-ba {
+    background-color: darkblue;
+    height: 100%;
+    width: 20%;
+    /* display: flex; */
+}
+
+.div-ba {
+    background-color: yellow;
+    height: 5px;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
+
+.div-ba-mot {
+    background-color: white;
+    height: 100%;
+    width: 30%;
+}
+
+.div-ba-hai {
+    background-color: white;
+    height: 100%;
+    width: 30%;
+}
+
+.div-ba-ba {
+    background-color: white;
+    height: 100%;
+    width: 30%;
+}
