@@ -1,0 +1,74 @@
+.div-mot,
+.div-hai,
+.div-ba,
+.div-bon {
+    height: 100px;
+    width: 100%;
+}
+
+.div-bon {
+    display: none;
+}
+
+@media only screen and (min-width: 576px) {
+
+    .div-bon {
+        display: block;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+
+    .parent-mot {
+        display: flex;
+    }
+
+    .parent-hai {
+        display: flex;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+
+    .parent {
+        display: flex;
+
+    }
+
+    .parent-mot {
+        display: flex;
+
+    }
+
+    .parent-hai {
+        display: flex;
+    }
+
+    .div-bon {
+        display: none;
+    }
+
+    .parent-mot {
+        width: 66.6%;
+    }
+
+    .parent-hai {
+        width: 33.3%;
+    }
+
+
+}
+
+@media only screen and (min-width: 1200px) {
+    .div-bon {
+        display: inline;
+    }
+
+    .parent-mot {
+        width: 50%;
+    }
+
+    .parent-hai {
+        width: 50%;
+    }
+}
