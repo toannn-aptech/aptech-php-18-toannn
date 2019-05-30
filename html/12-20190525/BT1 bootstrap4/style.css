@@ -1,0 +1,25 @@
+.bg-image {
+    background-image: url("imageTop.jpg");
+    height: 300px;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-image1 {
+    background-image: url("image1.jpg");
+    height: 300px;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-image2 {
+    background-image: url("image2.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-image3 {
+    background-image: url("image3.jpg");
+    background-position: center;
+    background-size: cover;
+}
