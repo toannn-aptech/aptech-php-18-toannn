@@ -2,6 +2,7 @@
     background-image: url("imageTop.jpg");
     background-position: center;
     background-size: cover;
+    filter: brightness(100%);
 }
 
 .bg-image1 {
